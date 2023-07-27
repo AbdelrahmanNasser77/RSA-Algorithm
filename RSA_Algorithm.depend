@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1690478312 source:e:\c++ journey\rsa_algorithm\main.cpp
+	<iostream>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	<unistd.h>
+
